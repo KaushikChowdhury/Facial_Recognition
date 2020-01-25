@@ -1,0 +1,8 @@
+{
+    "csv_keypoints_path_train" : 
+    "csv_keypoints_path_test" : 
+    "root_directory" : 
+
+    "batch_size" : 10,
+    "n_epochs" : 2
+}
